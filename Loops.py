@@ -1,6 +1,6 @@
 #All prime numbers <100
 i=2
-while(i<100):
+while(i<1000):
     j=2
     while(j <= (i/j)):
         if not(i%j): break
